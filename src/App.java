@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args)  {
-     String tên = "Thành";
+     String tên = "Mai Duy Hưng Thành";
      int tuổi = 28 ;
      String address = "Nghệ An";
             System.out.println("My name is "+tên + " ,"+"Iam " +tuổi +" year old");
